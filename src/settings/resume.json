@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "Felipe Gomes",
+    "label": "Web Developer",
+    "email": "fgomesdeluna@gmail.com",
+    "phone": "(XXX) XXX-XXXX",
+    "picture": "",
+    "x_title": "Hello, I'm",
+    "job1": "Front-End",
+    "job2": "Developer",
+    "description": "Front-End Developer",
+    "summary": "based in Carlito, Fortaleza.",
+    "keywords": "personal,website,portfolio,template,kit,fomes,webdev,web,developer,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+    "url": "https://fomes.github.io/",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "countryCode": "CE",
+      "region": "Nordeste"
+    },
+    "profiles": [
+      {
+        "network": "Google",
+        "username": "GMail",
+        "url": "mailto:fgomesdeluna@gmail.com",
+        "x_icon": "fab fa-google"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "LinkedIn",
+        "url": "https://www.linkedin.com/in/felipe-gomes-2b22597a/",
+        "x_icon": "fab fa-linkedin-in"
+      },
+      {
+        "network": "GitHub",
+        "username": "Github",
+        "url": "https://github.com/fomes",
+        "x_icon": "fab fa-github"
+      },
+      {
+        "network": "GitLab",
+        "username": "GitLab",
+        "url": "https://gitlab.com/fgfomes",
+        "x_icon": "fab fa-gitlab"
+      },
+      {
+        "network": "Telegram",
+        "username": "Telegram",
+        "url": "https://t.me/flpgomes",
+        "x_icon": "fab fa-telegram-plane"
+      },
+      {
+        "network": "Discord",
+        "username": "Fomes#9025",
+        "url": "https://discord.com/",
+        "x_icon": "fab fa-discord"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Company",
+      "position": "President",
+      "website": "http://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description...",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "website": "http://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description...",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "gpa": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "website": "http://publication.com",
+      "summary": "Description..."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": ["HTML", "CSS", "Javascript", "React"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference..."
+    }
+  ]
+}
