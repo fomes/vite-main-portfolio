@@ -11,7 +11,8 @@ import "./Works.css";
 // import Veritru from "../../assets/recentprojects/veritru.png";
 // import Lofo from "../../assets/recentprojects/lofo.png";
 // import Startup from "../../assets/recentprojects/startup.png";
-import Lacalle from "../../assets/recentprojects/lacalle.png";
+import lyrics from "../../assets/recentprojects/lacalle.png";
+import widget from "../../assets/recentprojects/lofo.png";
 
 const useStyles = makeStyles((theme) => ({
   main: {
@@ -29,7 +30,14 @@ export const Works = () => {
       title: "Letras de Músicas",
       description: `Um buscador de letras de músicas feito em React com API para diponibilizar as letras.`,
       alter: "Lyrics Search",
-      image: `${Lacalle}`,
+      image: `${lyrics}`,
+    },
+    {
+      id: 2,
+      title: "Widget App",
+      description: `Front-end de popup feedback que pode ser unsado em qualquer aplicação web.`,
+      alter: "Widget App",
+      image: `${widget}`,
     },
   ]);
 
